@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="uestc_server">
+    <serverData>
+      <paths name="remote_server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/administrator/PengXiao/plant" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cnn" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="uestc_server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/administrator/PengXiao/plant" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cnn" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

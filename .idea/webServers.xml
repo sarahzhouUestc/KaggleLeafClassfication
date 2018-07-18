@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="891b782f-6750-422c-a007-7f680e2d2d21" name="uestc_server" url="http://192.168.10.132">
+        <fileTransfer host="192.168.10.132" port="22" rootFolder="/home/administrator" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
